@@ -12,7 +12,7 @@ This document is broken up into sections such as Variables, Loops and Arrays etc
 
 ## Resources
 
-Did you find some ES6 code but want to know what it looks like in ES5?
+Did you find some ES6+ code but want to know what it looks like in ES5?
 
 So you know some ES5 but want to know what it looks like in ES6 quickly? Give this link a go.
 

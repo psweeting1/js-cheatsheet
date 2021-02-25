@@ -18,7 +18,7 @@ Did you find some JavaScript ES6+ code but want to know what it looks like in ES
 
 So you know some JavaScript ES5 but want to know what it looks like in JavaScript ES6+ quickly? Give this link a go.
 
-[es6console.com](https://es6console.com/) `note:` you need to set the preset to 2015.
+[lebab](https://lebab.unibtc.me/editor)
 
 ## Variables 
 
